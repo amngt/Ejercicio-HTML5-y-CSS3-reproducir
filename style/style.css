@@ -27,3 +27,7 @@ padding-right: 100px;
 padding-left: 100px;
 
 }
+body{
+    max-width: 810px;
+    min-width: 500px;
+}
